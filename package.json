@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "description": "My test node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "author": "Ilya Gureshidze",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
