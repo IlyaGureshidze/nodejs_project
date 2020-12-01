@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IlyaGureshidze/nodejs_project.git"
+  },
   "author": "Ilya Gureshidze",
   "license": "ISC",
   "devDependencies": {
